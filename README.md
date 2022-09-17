@@ -1,4 +1,4 @@
-# CA4023 - Natural Language Technologies - Assignment 2
+# Sentiment Analysis Model - Binary classification model of movie reviews
 
 This repository contains all data and code relating to the second assignment for CA4023, Natural Language Technologies. The instructions for this assignment are available [here](CA4023_Assignment2.pdf).
 
